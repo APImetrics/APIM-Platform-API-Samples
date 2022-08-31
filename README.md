@@ -2,12 +2,10 @@ APImetrics API Samples are designed to help developers learn how to use the APIm
 
 APImetrics's API provides developers with:
 
-    A RESTful API to enable DIY control and oversight of APIs, apps, and developers
+    A RESTful API to enable DIY control and monitoring of yuour production APIs
     API Key and OAuth 1 and 2 support
-    Out-of-the-box policies for functionality that you would rather not code yourself (like quotas, transformations, response caching, etc.)
     APIs and scripting support for functionality that you would rather innovate and code yourself
-    The ability to share your work with other developers, and to reuse it across your own projects, by exposing it as APIs that you own and control
-    Scalable, managed test and prod environments with operational analytics
+    The ability to share your work with other developers, and to reuse it across your own projects
 
 
 #Getting started
@@ -27,7 +25,6 @@ Learn more at http://apimetrics.cio/docs
 #What's here:
 
 Currently, this contains a few simple scripts that are designed to set up an API call in APImetrics.
-
 
 Get help and interact with other API developers
 

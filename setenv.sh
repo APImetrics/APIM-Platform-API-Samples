@@ -14,7 +14,9 @@
 
 email="andrew.brown+2@apimetrics.com"
 api_key="SmmebjGxlVRi0lEKinOd3TfYTzNWXoH7"
+call_id="agpzfnZpYXRlc3RzchcLEgpUZXN0U2V0dXAyGICAxJLZwq8IDA"
 
 ## Do not change the settings below
 ## --------------------------------------
 export api_key=$api_key
+export call_id=$call_id
