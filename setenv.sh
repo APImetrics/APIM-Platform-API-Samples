@@ -12,9 +12,9 @@
 ## You can obtain a free account at http://enterprise.apigee.com/signup
 ## --------------------------------------
 
-email="andrew.brown+2@apimetrics.com"
-api_key="SmmebjGxlVRi0lEKinOd3TfYTzNWXoH7"
-call_id="agpzfnZpYXRlc3RzchcLEgpUZXN0U2V0dXAyGICAxJLZwq8IDA"
+email="The email for your APImetrics account"
+api_key="Your API ley here"
+call_id="Your API call ID here--add this after you create your first API call"
 
 ## Do not change the settings below
 ## --------------------------------------
