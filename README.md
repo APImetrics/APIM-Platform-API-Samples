@@ -26,11 +26,13 @@ Learn more at http://apimetrics.cio/docs
 
 Currently, this contains a few simple scripts that are designed to set up an API call in APImetrics.
 
+Start with $ sh provision.sh
+
 Get help and interact with other API developers
 
 http://support.apimetrics.io
 
-Copyright 2022 APImetrics Corporation
+Copyright 2023 APImetrics Corporation
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
