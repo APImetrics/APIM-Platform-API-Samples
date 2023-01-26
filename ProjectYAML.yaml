@@ -1,0 +1,41 @@
+---
+$schema: https://client.apimetrics.io/api/2/import/schema.json
+project:
+  auth: []
+  calls:
+  - conditions: null
+    id: call-apifromcli
+    meta:
+      description: null
+      name: APIfromCLI
+      tags: []
+    request:
+      auth_id: null
+      body: null
+      headers: []
+      method: GET
+      parameters: []
+      token_id: null
+      url: https://api.voyant.io/api
+  conditions: null
+  environments:
+    global: []
+  files: []
+  meta:
+    name: ProjectYAML
+    tags: []
+  reports: []
+  schedules:
+  - id: schedule-default-schedule
+    meta:
+      name: Default Schedule
+      tags: []
+    schedule:
+      backoff_method: null
+      frequency: 300
+      locations: []
+      regions:
+      - all
+      target_ids: []
+  workflows: []
+version: '2'

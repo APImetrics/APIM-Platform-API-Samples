@@ -1,0 +1,46 @@
+---
+$schema: https://qc-client.apimetrics.io/api/2/import/schema.json
+project:
+  auth: []
+  calls:
+  - conditions: null
+    id: call-api-call-10-21-2022-4-35-01-pm
+    meta:
+      description: null
+      name: API Call 10/21/2022, 4:35:01 PM
+      tags:
+      - apimetrics:noredirect
+      - apimetrics:timeout:60
+    request:
+      auth_id: null
+      body: null
+      headers:
+      - key: Accept
+        value: application/json
+      method: GET
+      parameters: []
+      token_id: null
+      url: https://google.apimetrics.xyz/get
+  conditions: null
+  environments:
+    global: []
+  files: []
+  meta:
+    name: Test New Project 3
+    tags: []
+  reports: []
+  schedules:
+  - id: schedule-default-schedule
+    meta:
+      name: Default Schedule
+      tags: []
+    schedule:
+      backoff_method: null
+      frequency: 300
+      locations: []
+      regions:
+      - all
+      target_ids:
+      - call-api-call-10-21-2022-4-35-01-pm
+  workflows: []
+version: '2'
